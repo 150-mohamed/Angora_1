@@ -1,0 +1,206 @@
+.navebares
+{
+    z-index: 9999999999;
+    width: 100%;
+}
+.carousel-inner h1
+{
+    font-size: 75px;
+}
+.itemcontainer h1
+{
+    font-size: 30px;
+}
+.itemcontainer p
+{
+    font-size: 20px;
+}
+.Ali .texte
+{
+    font-size: 30px;
+}
+.itemes-1
+{
+    background-image: url(../images/imegeeee/slider-image1.jpg);
+    height: 100vh;
+    width: 100%;
+    background-position: center center;
+    background-size: cover;    
+}
+.itemes-2
+{
+    background-image: url(../images/imegeeee/slider-image2.jpg);
+    height: 100vh;
+    width: 100%;
+    background-position: center center;
+    background-size: cover;
+}
+.itemes-3
+{
+    background-image: url(../images/imegeeee/slider-image3.jpg);
+    height: 100vh;
+    width: 100%;
+    background-position: center center;
+    background-size: cover;
+}
+.title h2
+{
+    font-size: 5rem;
+    color: #f1f1f1f1;
+}
+.title h1
+{
+    font-size: 2.5rem;
+}
+.line
+{
+    width: 3%;
+    background-color: red;
+    height: 2px;
+    margin: auto;
+    transition: 0.5s all;
+}
+.itemesss:hover .line
+{
+    width: 5%;
+}
+.lines
+{
+    background-color: whitesmoke;
+    width: 100%;
+    height: 3px;
+    border-radius:2% ;
+}
+.lines1
+{
+    background-color: red;
+    width: 80%;
+    height: 3px;
+}
+.lines2
+{
+    background-color: red;
+    width: 95%;
+    height: 3px;
+}
+.lines3
+{
+    background-color: red;
+    width: 85%;
+    height: 3px;
+}
+.lines4
+{
+    background-color: red;
+    width: 70%;
+    height: 3px;
+}
+.prand h3
+{
+    font-size: 15px;
+}
+.prand h4
+{
+    font-size: 15px;
+}
+
+.imgee
+{
+    position: relative;
+    overflow: hidden;
+}
+.imgee img
+{
+    transition: transform 1s;
+}
+.caption
+{
+    position: absolute;
+    background-color: rgba(255, 0, 0,0.5);
+    top: 0;
+    left:0% ;
+    width: 100%;
+    height: 100%;
+    opacity: 0;
+    transition:opacity 0.5s ;
+
+}
+.imgee:hover .caption
+{
+   opacity: 1; 
+}
+.imgee:hover img
+{
+    transform: scale(1.2);
+}
+.ourteam h5
+{
+    margin: 10px 0px 0px 0px;
+}
+.itemmes
+{
+    background-color: whitesmoke;
+}
+.ourteam h6
+{
+    margin: 10px 0px 0px 0px;
+}
+.idea
+{
+    margin: 100px 0px 50px 0px;
+}
+.ClientReviews-img img
+{
+    width: 120px;
+    height: 120px;
+    border-radius:50% ;
+}
+.ClientReviews 
+{
+    width: 25%;
+}
+.setting
+{
+    z-index: 9999999999;
+    text-align: center;
+    color: #fff;
+    position: fixed;
+    top: 25%;
+    background-color: black;
+    width: 30px;
+    height: 30px;
+}
+.UsefulLinks h3
+{
+    font-size: 20px;
+    color:#fff;
+}
+.UsefulLinks h4
+{
+    font-size: 15px;
+    color: #fff;
+}
+.usefullink
+{
+    background-image: url(../images/dotted-map.png);
+    background-position: center center;
+    background-size: cover;
+    height: 400px;
+    background-color: rgb(0, 0, 0,0.9);
+    position: relative;
+}
+.usefullink-img
+{
+    position: absolute;
+    top: 25px;
+}
+.angora
+{
+    height: 50px;
+    margin: auto;
+}
+.contant-h
+{
+    position: relative;
+    left: 9%;
+}
